@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
+Developer that's driven to create beautiful, responsive web applications.
+
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [noahc.dev](http://www.noahc.dev/)
 * ✉️  You can contact me at [noahhcress@gmail.com](mailto:noahhcress@gmail.com)
